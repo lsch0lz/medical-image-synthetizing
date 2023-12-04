@@ -160,3 +160,10 @@ cython_debug/
 #.idea/
 .DS_STORE
 .idea
+/diffusion/ADI
+/diffusion/BACK
+/diffusion/DEB
+/diffusion/MUC
+/diffusion/MUS
+/diffusion/NORM
+/gan/data/
